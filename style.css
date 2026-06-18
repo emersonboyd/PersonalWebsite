@@ -277,7 +277,8 @@ nav {
 }
 
 .project-link {
-  display: inline-block;
+  display: block;
+  width: fit-content;
   margin-top: 1rem;
   color: #8231e8;
   text-decoration: none;
